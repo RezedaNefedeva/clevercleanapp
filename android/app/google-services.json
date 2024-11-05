@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "988917515481",
+    "project_id": "clevercleanapp-9a28b",
+    "storage_bucket": "clevercleanapp-9a28b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988917515481:android:f414a47e53e4b5b11eaac8",
+        "android_client_info": {
+          "package_name": "com.cleverclean.clevercleanapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIiUz6rbNf6MOYLIYP9872ox-PtYfclXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
